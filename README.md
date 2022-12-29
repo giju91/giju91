@@ -1,11 +1,6 @@
 # Giju Eo
 ## _Environment Horticulture Laboratory_
 
-<a href="https://www.instagram.com/g.juuuu/">
-    <img 
-        src="http://img.shields.io/badge/-Contact Me-222222?style=flat&logo=Instagram&link=https://www.instagram.com/g.juuuu/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 <a href="https://instagram.com/alpox.dev">
     <img 
