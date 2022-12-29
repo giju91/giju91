@@ -1,5 +1,4 @@
 # Giju Eo
-## _Environment Horticulture Laboratory_
 
 
 <a href="https://instagram.com/alpox.dev">
