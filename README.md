@@ -17,8 +17,9 @@
 
 ## Careers
 
-- Inha university, Department of Polymer Engineering 
-- Chungnam university, Department of Bio-AI Convergence
+- [Bachelor degree] Inha university, Department of Polymer Engineering 
+- [Master's degree] Chungnam university, Department of Bio-AI Convergence
+- [Doctor's course] Chungnam university, Department of AI-Plant Convergence
 - Environment Horticulture Laboratory
 
 
